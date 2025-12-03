@@ -1,0 +1,1 @@
+Resuable Module for AWS Elastic MapReduce is a managed cluster platform on AWS that simplifies running big data frameworks like Apache Spark, Hadoop
